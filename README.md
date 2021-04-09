@@ -1,5 +1,5 @@
 # Flask PWA
-> A progressive webapp template.
+> A progressive webapp template - to test with Azure.
 
 Flask PWA is supposed to be a goto template when I start a new Flask project. It is constructed on a Model-Template-Controller perspective, which I find clear enough for my current projects.
 
